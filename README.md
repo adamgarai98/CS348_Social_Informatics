@@ -1,1 +1,1 @@
-# Warwick CS347 Social Informatics Coursework
+# Warwick CS348 - Social Informatics Coursework
